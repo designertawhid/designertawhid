@@ -56,10 +56,10 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/XTawhidX" target="_blank">
+<a href="https://github.com/designertawhid" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/xtawhidx" target="_blank">
+<a href="https://twitter.com/designer_tawhid" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/xtawhidx" target="_blank">
@@ -80,7 +80,7 @@
 <br/>  
 
 <div align="center">
-<p><a href="https://github.com/XTawhidX"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaneethkm004&amp;layout=compact" alt="Top Langs"></a></p></div>  
+<p><a href="https://github.com/designertawhid"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaneethkm004&amp;layout=compact" alt="Top Langs"></a></p></div>  
 
 ![snake gif](https://raw.githubusercontent.com/navaneethkm004/navaneethkm004/navaneethkm004-patch-2/snek.svg)
 <div align="center">
